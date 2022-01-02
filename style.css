@@ -1,5 +1,8 @@
 *{
-    color: white;
+    color: black;
     background-color: white;
 }
 
+p{
+    line-height: 1cm;
+}
