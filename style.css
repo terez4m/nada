@@ -5,4 +5,8 @@
 
 p{
     line-height: 1cm;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
