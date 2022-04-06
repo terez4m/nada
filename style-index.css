@@ -1,0 +1,15 @@
+body{
+    background-image: url(/home/tereza/repos/nada/images/ms-icon-310x310.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.poema{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+}
