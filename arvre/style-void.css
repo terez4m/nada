@@ -1,15 +1,15 @@
 @font-face{
     font-family: faltaFont;
-    src: url(/home/tereza/repos/nada/font/goldengirdle.ttf)
+    src: url(goldengirdle.ttf) format('trutype');
 }
 
 *{
-    font-family: faltaFont;
     color: black;
     background-color: white;
 }
 
 p{
+    font-family: faltaFont;
     line-height: 1cm;
     color: white;
     display: flex;
