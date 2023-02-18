@@ -1,19 +1,9 @@
-@font-face{
-    font-family: faltaFont;
-    src: url(goldengirdle.ttf) format('trutype');
-}
-
-*{
-    color: rgb(255, 255, 255);
-    background-color: white;
-}
 
 body{
-    font-family: faltaFont;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1cm;
-    display: flex;
-    justify-content: center;
     align-items: center;
+    color: white;    
 }
 
 a, a:link, a:hover, a:visited, a:active{
